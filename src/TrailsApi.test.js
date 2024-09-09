@@ -115,7 +115,7 @@ describe('TrailsApi', () => {
 
             const result = await TrailsApi.uploadImage(formData);
 
-            expect(result).toEqual('/src/assets/profile-placeholder.png');
+            expect(result).toEqual('/assets/profile-placeholder.png');
             expect(axios.post).toHaveBeenCalledWith('http://mock-api-url.com/upload', formData, {
                 headers: { 'Content-Type': 'multipart/form-data' },
             });

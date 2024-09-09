@@ -151,7 +151,7 @@ class TrailsApi {
             .then((response) => response.data.filePath)
             .catch((error) => {
                 console.error('Error uploading file:', error);
-                return '/src/assets/profile-placeholder.png';
+                return '/assets/profile-placeholder.png';
             });
     }
 

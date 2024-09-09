@@ -12,35 +12,35 @@ import TrailDetail from "./TrailDetail";
 const images = [
     {
         'tag': "Angels Landing, Zion National Park",
-        'imgPath': "/src/assets/angels_landing_zion.png"
+        'imgPath': "/assets/angels_landing_zion.png"
     },
     {
         'tag': "Avalanche Lake, Glacier National Park",
-        'imgPath': "/src/assets/avalanche_lake_glacier.png"
+        'imgPath': "/assets/avalanche_lake_glacier.png"
     },
     {
         'tag': "Devils Bridge, Coconino National Forest",
-        'imgPath': "/src/assets/devils_bridge.png"
+        'imgPath': "/assets/devils_bridge.png"
     },
     {
         'tag': "Skyline Loop, Mount Rainier National Park",
-        'imgPath': "/src/assets/mt_rainier.png"
+        'imgPath': "/assets/mt_rainier.png"
     },
     {
         'tag': "Narrows, Zion National Park",
-        'imgPath': "/src/assets/narrows.png"
+        'imgPath': "/assets/narrows.png"
     },
     {
         'tag': "Old Rag Mountain, Shenandoah National Park",
-        'imgPath': "/src/assets/oldrag_shen.png"
+        'imgPath': "/assets/oldrag_shen.png"
     },
     {
         'tag': "Queens Garden Trail, Bryce Canyon National Park",
-        'imgPath': "/src/assets/Queens-Navajo-Banner.png"
+        'imgPath': "/assets/Queens-Navajo-Banner.png"
     },
     {
         'tag': "White Oak Canyon, Shenandoah National Park",
-        'imgPath': "/src/assets/whiteoak_canyon.png"
+        'imgPath': "/assets/whiteoak_canyon.png"
     }
 ]
 

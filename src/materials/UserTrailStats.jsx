@@ -9,7 +9,7 @@ const UserTrailStats = (props) => {
             <h3>My trail stats:</h3>
             <Box sx={{ display: "flex" }}>
                 <Box sx={{ width: '150px' }}>
-                    <img src="/src/assets/profile_stats.png" width={'144px'} />
+                    <img src="/assets/profile_stats.png" width={'144px'} />
                 </Box>
                 <Box width={'80%'} ml={{ xs: 2, sm: 6, md: 10, lg: 15 }}>
                     <Typography sx={{ width: '100%', textAlign: "left" }}>Completed trails: {`${trailStats.trailsCompleted}`}</Typography>

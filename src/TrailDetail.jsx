@@ -105,7 +105,7 @@ const TrailDetail = () => {
                         >
                             <Box
                                 component="img"
-                                src={"src/assets/tw-img-placeholder.png"}
+                                src={"assets/tw-img-placeholder.png"}
                                 alt="Trail image"
                                 sx={{
                                     width: '100%',
@@ -162,7 +162,7 @@ const TrailDetail = () => {
                                 >
                                     <Box
                                         component="img"
-                                        src="/src/assets/map-placeholder.png"
+                                        src="/assets/map-placeholder.png"
                                         alt="Trail Map"
                                         sx={{
                                             width: '100%',

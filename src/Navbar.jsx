@@ -66,7 +66,7 @@ const Navbar = () => {
                 <Toolbar disableGutters sx={{ minHeight: '64px' }}>
                     <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' }, alignItems: 'center' }}>
                         <Tooltip title="Home" placement='right'>
-                            <a href="/"><img src="/src/assets/TW-logo-grn.png" alt="Trail Wanderer logo" style={{ height: '60px', width: 'auto' }} /></a>
+                            <a href="/"><img src="/assets/TW-logo-grn.png" alt="Trail Wanderer logo" style={{ height: '60px', width: 'auto' }} /></a>
                         </Tooltip>
                     </Box>
 
@@ -109,7 +109,7 @@ const Navbar = () => {
 
                     <Box sx={{ display: { xs: 'flex', md: 'none' }, flexGrow: 1, alignItems: 'center' }}>
                         <Tooltip title="Home" placement='right'>
-                            <a href="/"><img src="/src/assets/TW-logo-grn.png" alt="Trail Wanderer logo" style={{ height: '60px', width: 'auto' }} /></a>
+                            <a href="/"><img src="/assets/TW-logo-grn.png" alt="Trail Wanderer logo" style={{ height: '60px', width: 'auto' }} /></a>
                         </Tooltip>
                     </Box>
 

@@ -33,7 +33,7 @@ const TrailCard = ({ trail, isUser, wishlistAdd, wishlistRemove, addComplete, re
                 ? <Map coords={trail.coordinates} width={"180px"} height={"180px"} />
                 : <Box
                     component="img"
-                    src="/src/assets/tw-logo200x200.png"
+                    src="/assets/tw-logo200x200.png"
                     alt="Trail Logo"
                     sx={{ width: "180px", height: "180px" }}
                 />

@@ -18,7 +18,7 @@ const TwButton = (props) => {
         >
             <Box
                 component="img"
-                src="/src/assets/TW-logo-grn.png"
+                src="/assets/TW-logo-grn.png"
                 alt="Trail Wanderer Logo"
                 sx={{ height: '40px', borderRadius: '7px' }}
             />
